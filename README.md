@@ -1,6 +1,6 @@
-### Stop Loss Automatico para Futuros de Binance
+### Take Profit Automatico para Futuros de Binance
 
-El Script fue desarrollado para proteger las operaciones en futuros de Binance, solo debes de poner la moneda que deseas operar donde ya tengas una posicion abierta, ejemplo (btc), y luego poner en monto maximo a perder en dolares, ejemplo (10)
+El Script fue desarrollado para tomar ganancias de las operaciones en futuros de Binance, solo debes de poner la moneda que deseas operar donde ya tengas una posicion abierta, ejemplo (btc), y luego poner el porcentaje que deseas tomar de ganancias.
 
 **Como usar el script**
 - Descargar python [Aqui](https://www.python.org/ "Aqui")
